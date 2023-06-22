@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yasharpasha
+- 👀 I’m interested in programing and circuit desining and plc systems
+- 🌱 I’m currently learning machin learning (ML)
