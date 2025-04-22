@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Electronics and Mechatronics En.**
 
-- 📫 How to reach me **yasarparsa2002@gmail.com**
+- 📫 How to reach me **yasarpasa2021@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/yashar-parsa-a0392a196](linkedin.com/in/yashar-parsa-a0392a196)
 
