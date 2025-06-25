@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yashar parsa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on [DCBMDC](https://www.linkedin.com/posts/yashar-parsa-a0392a196_just-finished-new-version-of-dcbmdc-direct-activity-7170110282520903680-oAOa?utm_source=share&utm_medium=member_desktop)
 
 - 🌱 I’m currently learning **Machine learning and STM32**
 
-- 👨‍💻 You can see all of my projects are available [My GitHub](My GitHub)
+- 👨‍💻 You can see all of my projects are available [My GitHub] & Linkdln link above.
 
 - 💬 Ask me about **Electronics and Mechatronics En.**
 
